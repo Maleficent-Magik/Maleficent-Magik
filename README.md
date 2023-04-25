@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![UsedDiscord's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsedDiscord&count_private=true)
+[![Magik's GitHub stats](https://github-readme-stats.vercel.app/api?username=useddiscord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **UsedDiscord/UsedDiscord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
