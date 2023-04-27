@@ -20,3 +20,9 @@ _So, in short! :_
 - 🪄 I work :)
 - 😄 Pronous : He/Him
 - ⚡ Fun Fact : I'm Scorpio 🦂♏
+
+-----
+
+I think one of my biggest successes was a Bot Discord written in JavaScript via NodeJS...
+
+Unfortunately, today this one is extinct for ever because of different with the privacy of some people, so for reasons of confidentiality, it is dead. ➡️ [EliteCode](https://github.com/UsedDiscord/-ENDING...-EliteCode) 💔
