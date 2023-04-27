@@ -6,8 +6,9 @@ Here, a student in Law School, in pseudo "L1" in France... (It's not really a Li
 
 Works on completely useless or crazy projects...
 
-I particularly applied myself on the Repo of a Hackintosh, the one of @Qonfused : UX481
+I particularly applied myself on the Repo of a Hackintosh, the one of [@Qonfused](https://github.com/Qonfused) : [UX481](https://github.com/Qonfused/ASUS-ZenBook-Duo-14-UX481-Hackintosh)
 
+Origin : France, French 
 
 **I 'm a bit special... I am Scorpio! Born in November.**
 
