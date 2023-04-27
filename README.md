@@ -2,19 +2,19 @@
 
 [![Magik's GitHub stats](https://github-readme-stats.vercel.app/api?username=useddiscord)](https://github.com/UsedDiscord/github-readme-stats)
 
-<!--
-**UsedDiscord/UsedDiscord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, a student in Law School, in pseudo "L1" in France... (It's not really a Licence since I only have 2 hours of classes per day...)
 
+Works on completely useless or crazy projects...
 
+I particularly applied myself on the Repo of a Hackintosh, the one of @Qonfused : UX481
 
-Here are some ideas to get you started:
+###I'm a bit special... I am Scorpio! Born in November.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So, in short! :
+
+- ⚖️ Law student
+- 🎮 - ⌨️ Has fun when he can
+- 📸 Love amateur photography
+- 🪄 I work :)
+- 😄 Pronous : He/Him
+- ⚡ Fun Fact : I'm Scorpio 🦂♏
