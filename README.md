@@ -8,9 +8,10 @@ Works on completely useless or crazy projects...
 
 I particularly applied myself on the Repo of a Hackintosh, the one of @Qonfused : UX481
 
-###I 'm a bit special... I am Scorpio! Born in November.
 
-So, in short! :
+**I 'm a bit special... I am Scorpio! Born in November.**
+
+_So, in short! :_
 
 - ⚖️ Law student
 - 🎮 - ⌨️ Has fun when he can
