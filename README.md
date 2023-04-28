@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Magik's GitHub stats](https://github-readme-stats.vercel.app/api?username=useddiscord)](https://github.com/UsedDiscord/github-readme-stats)
+[![Magik's GitHub stats](https://github-readme-stats.vercel.app/api?username=useddiscord&count_private=true)](https://github.com/UsedDiscord/github-readme-stats)
 
 Here, a student in Law School, in pseudo "L1" in France... (It's not really a Licence since I only have 2 hours of classes per day...)
 
